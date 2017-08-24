@@ -1,0 +1,1 @@
+A small iOS project to demonstrate the use of the UIViewController safe layout area to handle keyboard appearance and removal
