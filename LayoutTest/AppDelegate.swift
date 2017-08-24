@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  LayoutTest
 //
-//  Created by Tim Ducket on 24.08.17.
+//  Created by Tim Duckett on 24.08.17.
 //  Copyright © 2017 Tim Duckett. All rights reserved.
 //
 
