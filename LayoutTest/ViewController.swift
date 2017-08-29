@@ -37,7 +37,6 @@ class ViewController: UIViewController {
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        
         // Grab default spacing between background container and the safe area
         // when the view first appears
         backgroundContainerViewBottomConstant = backgroundContainerViewBottomLayoutConstraint.constant
